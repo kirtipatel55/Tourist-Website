@@ -20,7 +20,5 @@ HTML, CSS, JavaScript, Java, SQL
 ## License
 MIT License
 
-## Contact
-- **Your Name**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+
 
